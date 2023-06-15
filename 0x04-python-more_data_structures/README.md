@@ -45,8 +45,6 @@ You are not allowed to import any module
 
 4. Only differents
 Write a function that returns a set of all elements present in only one set.
-Prototype: def only_diff_elements(set_1, set_2):
-You are not allowed to import any module
 
 5. Number of keys
 Write a function that returns the number of keys in a dictionary.
@@ -93,7 +91,7 @@ If no score found, return None
 You can assume all students have a different score
 You are not allowed to import any module
 
-11. Multiply by using map
+1. Multiply by using map
 Write a function that returns a list with all values multiplied by a number without using any loops.
 Prototype: def multiply_list_map(my_list=[], number=0):
 Returns a new list:
@@ -141,5 +139,3 @@ All keys having the searched value have to be deleted
 
 16. CPython #1: PyBytesObject
 Create two C functions that print some basic info about Python lists and Python bytes objects
-
-
